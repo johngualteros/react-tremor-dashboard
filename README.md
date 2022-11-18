@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+![](./src/tremor_1.png)
+![](./src/tremor_2.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

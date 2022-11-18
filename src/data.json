@@ -1,0 +1,37 @@
+[
+    {
+        "id": "1",
+        "name": "John",
+        "role": "administrator",
+        "department": "IT",
+        "state": "active"
+    },
+    {
+        "id": "2",
+        "name": "Jane",
+        "role": "user",
+        "department": "IT",
+        "state": "active"
+    },
+    {
+        "id": "3",
+        "name": "Jack",
+        "role": "user",
+        "department": "IT",
+        "state": "inactive"
+    },
+    {
+        "id": "4",
+        "name": "Jill",
+        "role": "user",
+        "department": "IT",
+        "state": "inactive"
+    },
+    {
+        "id": "5",
+        "name": "Joe",
+        "role": "user",
+        "department": "IT",
+        "state": "active"
+    }
+]
